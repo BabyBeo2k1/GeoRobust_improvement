@@ -10,7 +10,7 @@ model_list='
 resnet50
 '
 
-dataset_dir="/media/lqhung2001/Ubuntu_extend/gmu/GeoRobust/shell/imagenet/val" # update this
+dataset_dir="/media/lqhung2001/Ubuntu_extend/gmu/GeoRobust_improvement/shell/imagenet/val" # update this
 input="./imagenet_results/test_samples.txt"
 ouput_dir="./imagenet_results/GeoRobust/"
 

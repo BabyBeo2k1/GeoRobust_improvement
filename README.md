@@ -54,3 +54,23 @@ If you find our implementation helpful, please consider to cite our paper in you
 ```
 
 -- Fu Wang & Wenjie Ruan
+
+## Improvement from HungLQ
+
+Because GeoRobust base on foward propagation algorithm to calculate Lipschitz constraint, we propose an improvement on PO selection process by 
+add penalty on PO selection by using max absolute value of Jacobian element of output class over affine transformation variables. Using
+this method, it tackle the problem of lack of neighbor information for each center, improve the potential decrease of robustness attribute of
+neighbor datapoints.
+
+
+<p align="center">
+    <img src="figs/improvement_po.png" width="780"\>
+</p>
+
+The result shows that the modification find a lower minimum for robustness problem at 57% cases but find higher minimum for 37% cases. 
+
+<p align="center">
+    <img src="figs/result_improvement.png" width="780"\>
+</p>
+
+Overall this is a worth-to-try improvement, although it require double computing cost but only improve 57% cases
