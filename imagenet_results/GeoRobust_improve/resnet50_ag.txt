@@ -1,0 +1,524 @@
+<class 'numpy.ndarray'>
+example: 31,correctness:1, conf3.099822,post_correctness: 1,min:1.992258,last center:729,best idx:64,low bound: 1.891688, largest slope: 210.2,opt size: 0.00047834949869474217, largest po size:0.00047834949869474217,time:6.36
+[0.3310178530967615]
+<class 'numpy.ndarray'>
+example: 942,correctness:0, conf-3.567338,post_correctness: 0,min:-4.452068,last center:701,best idx:53,low bound: -4.504578, largest slope: 109.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:6.00
+[0.022960775937347577]
+<class 'numpy.ndarray'>
+example: 963,correctness:1, conf2.529179,post_correctness: 1,min:1.466932,last center:681,best idx:22,low bound: 1.341516, largest slope: 262.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:6.00
+[0.2697891172638344]
+<class 'numpy.ndarray'>
+example: 1803,correctness:0, conf-4.668935,post_correctness: 0,min:-4.790102,last center:659,best idx:79,low bound: -4.840881, largest slope: 106.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.87
+[-0.25256853531082385]
+<class 'numpy.ndarray'>
+example: 2052,correctness:1, conf0.800328,post_correctness: 1,min:-0.484607,last center:665,best idx:29,low bound: -0.639113, largest slope: 323.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.77
+[0.25735203029777126]
+<class 'numpy.ndarray'>
+example: 2787,correctness:0, conf-3.217370,post_correctness: 0,min:-5.201038,last center:689,best idx:10,low bound: -5.321651, largest slope: 252.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:6.05
+[0.25830872929516063]
+<class 'numpy.ndarray'>
+example: 2890,correctness:1, conf2.286561,post_correctness: 1,min:0.895783,last center:729,best idx:45,low bound: 0.762347, largest slope: 279.0,opt size: 0.00047834949869474217, largest po size:0.00047834949869474217,time:6.14
+[0.2831829032272874]
+<class 'numpy.ndarray'>
+example: 3855,correctness:0, conf-2.197391,post_correctness: 0,min:-3.445031,last center:669,best idx:18,low bound: -3.495208, largest slope: 104.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.81
+[-0.30136018417768756]
+<class 'numpy.ndarray'>
+example: 4167,correctness:1, conf5.218195,post_correctness: 1,min:3.531333,last center:659,best idx:33,low bound: 3.356385, largest slope: 365.7,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.82
+[-0.08036271578071669]
+<class 'numpy.ndarray'>
+example: 4899,correctness:1, conf-0.146632,post_correctness: 1,min:-0.847780,last center:651,best idx:95,low bound: -0.979553, largest slope: 275.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.72
+[0.010523688971284306]
+<class 'numpy.ndarray'>
+example: 4906,correctness:1, conf4.027827,post_correctness: 1,min:2.733446,last center:655,best idx:28,low bound: 2.616006, largest slope: 245.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.76
+[0.3472817360523827]
+<class 'numpy.ndarray'>
+example: 5139,correctness:1, conf1.120927,post_correctness: 1,min:-1.078687,last center:665,best idx:23,low bound: -1.252643, largest slope: 363.7,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.87
+[-0.32145086312286675]
+<class 'numpy.ndarray'>
+example: 6401,correctness:1, conf-0.414757,post_correctness: 1,min:-1.160857,last center:681,best idx:41,low bound: -1.244147, largest slope: 174.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.98
+[-0.11289048169195917]
+<class 'numpy.ndarray'>
+example: 6667,correctness:1, conf3.940877,post_correctness: 1,min:2.871756,last center:719,best idx:36,low bound: 2.794475, largest slope: 161.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:6.26
+[0.29083649520640326]
+<class 'numpy.ndarray'>
+example: 7439,correctness:1, conf1.655204,post_correctness: 1,min:0.048643,last center:623,best idx:37,low bound: -0.131474, largest slope: 376.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.51
+[-0.13202446163974882]
+<class 'numpy.ndarray'>
+example: 7746,correctness:1, conf2.078297,post_correctness: 1,min:1.238351,last center:687,best idx:23,low bound: 1.136877, largest slope: 212.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.96
+[-0.02583087292951608]
+<class 'numpy.ndarray'>
+example: 7977,correctness:1, conf-0.729495,post_correctness: 1,min:-1.540747,last center:687,best idx:173,low bound: -1.717174, largest slope: 368.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.99
+[-0.012437086966063271]
+<class 'numpy.ndarray'>
+example: 8541,correctness:0, conf-1.739090,post_correctness: 0,min:-3.351828,last center:655,best idx:26,low bound: -3.474012, largest slope: 255.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.73
+[0.3472817360523827]
+<class 'numpy.ndarray'>
+example: 9123,correctness:1, conf-0.040103,post_correctness: 1,min:-0.721359,last center:723,best idx:33,low bound: -0.795493, largest slope: 155.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:6.34
+[0.31762406713330876]
+<class 'numpy.ndarray'>
+example: 9695,correctness:1, conf-2.186375,post_correctness: 0,min:-3.085300,last center:649,best idx:28,low bound: -3.183944, largest slope: 206.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.81
+[0.08036271578071669]
+<class 'numpy.ndarray'>
+example: 10020,correctness:1, conf0.439981,post_correctness: 1,min:-2.323631,last center:711,best idx:37,low bound: -2.628822, largest slope: 638.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:6.19
+[0.32336426111764577]
+<class 'numpy.ndarray'>
+example: 10417,correctness:1, conf-0.654359,post_correctness: 1,min:-0.655265,last center:667,best idx:0,low bound: -0.738786, largest slope: 174.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.88
+[0.0]
+<class 'numpy.ndarray'>
+example: 10453,correctness:1, conf1.858451,post_correctness: 1,min:0.796455,last center:641,best idx:138,low bound: 0.660494, largest slope: 284.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.69
+[0.012437086966063216]
+<class 'numpy.ndarray'>
+example: 10582,correctness:1, conf0.292516,post_correctness: 1,min:-0.776457,last center:665,best idx:34,low bound: -0.909753, largest slope: 278.7,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:5.81
+[-0.09375650174416944]
+<class 'numpy.ndarray'>
+example: 11554,correctness:0, conf-5.260292,post_correctness: 0,min:-5.459241,last center:689,best idx:29,low bound: -5.555336, largest slope: 200.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:6.15
+[-0.00956698997389488]
+<class 'numpy.ndarray'>
+example: 12247,correctness:1, conf1.413906,post_correctness: 1,min:0.512376,last center:671,best idx:102,low bound: 0.436769, largest slope: 158.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:6.03
+[0.2219541673943603]
+<class 'numpy.ndarray'>
+<class 'numpy.ndarray'>
+example: 31,correctness:1, conf3.099822,post_correctness: 1,min:1.992258,last center:729,best idx:64,low bound: 1.891688, largest slope: 210.2,opt size: 0.00047834949869474217, largest po size:0.00047834949869474217,time:7.48
+[0.3310178530967615]
+<class 'numpy.ndarray'>
+example: 942,correctness:0, conf-3.567338,post_correctness: 0,min:-4.452068,last center:701,best idx:53,low bound: -4.504578, largest slope: 109.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:7.62
+[0.022960775937347577]
+<class 'numpy.ndarray'>
+example: 963,correctness:1, conf2.529179,post_correctness: 1,min:1.466932,last center:681,best idx:22,low bound: 1.341516, largest slope: 262.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:7.07
+[0.2697891172638344]
+<class 'numpy.ndarray'>
+example: 1803,correctness:0, conf-4.668935,post_correctness: 0,min:-4.790102,last center:659,best idx:79,low bound: -4.840881, largest slope: 106.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:7.13
+[-0.25256853531082385]
+<class 'numpy.ndarray'>
+[3.1001344]
+example: 31,correctness:1, conf3.099822,post_correctness: 1,min:1.992258,last center:729,best idx:56,low bound: 1.891688, largest slope: 210.2,opt size: 0.00047834949869474217, largest po size:0.00047834949869474217,time:23.39
+[0.3310178530967615]
+[-3.5640984]
+example: 942,correctness:0, conf-3.567338,post_correctness: 0,min:-4.452068,last center:701,best idx:53,low bound: -4.504578, largest slope: 109.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:21.73
+[0.022960775937347577]
+[2.5294175]
+[3.1001344]
+example: 31,correctness:1, conf3.099822,post_correctness: 1,min:1.984083,last center:591,best idx:214,low bound: 1.682375, largest slope: 210.2,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:18.75
+[0.33006115409937203]
+[-3.5640984]
+example: 942,correctness:0, conf-3.567338,post_correctness: 0,min:-4.443987,last center:603,best idx:329,low bound: -4.499235, largest slope: 115.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.75
+[0.2171706724074129]
+[2.5294175]
+example: 963,correctness:1, conf2.529179,post_correctness: 1,min:1.470767,last center:601,best idx:208,low bound: 1.365783, largest slope: 219.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.11
+[0.2697891172638344]
+[-4.6686625]
+example: 1803,correctness:0, conf-4.668935,post_correctness: 0,min:-4.792557,last center:607,best idx:183,low bound: -4.842740, largest slope: 104.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.92
+[-0.25256853531082385]
+[0.8011298]
+example: 2052,correctness:1, conf0.800328,post_correctness: 1,min:-0.479791,last center:601,best idx:377,low bound: -0.641586, largest slope: 338.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.49
+[0.25735203029777126]
+[-3.2169013]
+example: 2787,correctness:0, conf-3.217370,post_correctness: 0,min:-5.189575,last center:605,best idx:8,low bound: -5.551808, largest slope: 252.4,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:18.79
+[0.25830872929516063]
+[2.2859716]
+example: 2890,correctness:1, conf2.286561,post_correctness: 1,min:0.899960,last center:619,best idx:301,low bound: 0.766524, largest slope: 279.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:19.06
+[0.2831829032272874]
+[-2.1980193]
+example: 3855,correctness:0, conf-2.197391,post_correctness: 0,min:-3.444591,last center:603,best idx:82,low bound: -3.496779, largest slope: 109.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.68
+[-0.30136018417768756]
+[5.216489]
+example: 4167,correctness:1, conf5.218195,post_correctness: 1,min:3.528472,last center:607,best idx:25,low bound: 3.332137, largest slope: 410.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.90
+[-0.08036271578071669]
+[-0.14754748]
+example: 4899,correctness:1, conf-0.146632,post_correctness: 1,min:-0.845837,last center:599,best idx:337,low bound: -0.977610, largest slope: 275.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.79
+[0.010523688971284306]
+[4.0277724]
+example: 4906,correctness:1, conf4.027827,post_correctness: 1,min:2.733829,last center:605,best idx:24,low bound: 2.613038, largest slope: 252.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.52
+[0.3472817360523827]
+[1.1228135]
+example: 5139,correctness:1, conf1.120927,post_correctness: 1,min:-1.059792,last center:591,best idx:115,low bound: -1.581660, largest slope: 363.7,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:20.25
+[-0.32145086312286675]
+[-0.41534877]
+example: 6401,correctness:1, conf-0.414757,post_correctness: 1,min:-1.158278,last center:593,best idx:565,low bound: -1.237765, largest slope: 166.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:19.91
+[-0.11289048169195917]
+[3.9396043]
+example: 6667,correctness:1, conf3.940877,post_correctness: 1,min:2.861988,last center:605,best idx:436,low bound: 2.784982, largest slope: 161.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.32
+[0.29083649520640326]
+[1.6547682]
+example: 7439,correctness:1, conf1.655204,post_correctness: 1,min:0.047975,last center:591,best idx:153,low bound: -0.127059, largest slope: 365.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.64
+[-0.13202446163974882]
+[2.078391]
+example: 7746,correctness:1, conf2.078297,post_correctness: 1,min:1.238861,last center:591,best idx:17,low bound: 1.137383, largest slope: 212.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.81
+[-0.02583087292951608]
+[-0.7261143]
+example: 7977,correctness:1, conf-0.729495,post_correctness: 1,min:-1.550598,last center:607,best idx:485,low bound: -1.723485, largest slope: 361.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:22.30
+[-0.012437086966063271]
+[-1.7394089]
+example: 8541,correctness:0, conf-1.739090,post_correctness: 0,min:-3.367709,last center:609,best idx:240,low bound: -3.822705, largest slope: 317.1,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:21.72
+[0.3472817360523827]
+[-0.03947759]
+example: 9123,correctness:1, conf-0.040103,post_correctness: 1,min:-0.717006,last center:599,best idx:52,low bound: -0.936652, largest slope: 153.1,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:21.12
+[0.31858076613069825]
+[-2.1864402]
+example: 9695,correctness:1, conf-2.186375,post_correctness: 0,min:-3.084696,last center:603,best idx:174,low bound: -3.183004, largest slope: 205.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:20.69
+[0.08036271578071669]
+[0.43957043]
+example: 10020,correctness:1, conf0.439981,post_correctness: 1,min:-2.324860,last center:615,best idx:413,low bound: -2.630051, largest slope: 638.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.51
+[0.32336426111764577]
+[-0.6552651]
+example: 10417,correctness:1, conf-0.654359,post_correctness: 1,min:-0.655265,last center:605,best idx:0,low bound: -0.738786, largest slope: 174.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:22.85
+[0.0]
+[1.8584619]
+example: 10453,correctness:1, conf1.858451,post_correctness: 1,min:0.802375,last center:595,best idx:266,low bound: 0.646410, largest slope: 326.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:22.41
+[0.012437086966063216]
+[0.29079223]
+example: 10582,correctness:1, conf0.292516,post_correctness: 1,min:-0.776973,last center:611,best idx:56,low bound: -0.890479, largest slope: 237.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:20.79
+[-0.09375650174416944]
+[-5.260762]
+example: 11554,correctness:0, conf-5.260292,post_correctness: 0,min:-5.454800,last center:597,best idx:531,low bound: -5.542181, largest slope: 182.7,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.77
+[-0.00956698997389488]
+[1.4149914]
+example: 12247,correctness:1, conf1.413906,post_correctness: 1,min:0.513197,last center:611,best idx:92,low bound: 0.439238, largest slope: 154.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.48
+[0.2219541673943603]
+[5.303163]
+example: 12649,correctness:1, conf5.302087,post_correctness: 1,min:3.155413,last center:591,best idx:242,low bound: 2.955160, largest slope: 418.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.92
+[0.3214508631228667]
+[-0.6901243]
+example: 13704,correctness:1, conf-0.690475,post_correctness: 1,min:-2.352983,last center:609,best idx:462,low bound: -2.481200, largest slope: 268.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.28
+[-0.29179319420379274]
+[2.8610733]
+example: 13744,correctness:1, conf2.860943,post_correctness: 1,min:1.862932,last center:599,best idx:363,low bound: 1.719845, largest slope: 299.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:20.13
+[-0.3195374651280878]
+[-0.2215178]
+example: 14965,correctness:1, conf-0.221495,post_correctness: 1,min:-0.959187,last center:607,best idx:197,low bound: -1.012060, largest slope: 110.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:20.23
+[-0.3472817360523828]
+[-0.19375062]
+example: 15380,correctness:1, conf-0.192869,post_correctness: 1,min:-1.081081,last center:597,best idx:594,low bound: -1.177443, largest slope: 201.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:19.21
+[-0.28318290322728734]
+[-2.0600471]
+example: 15990,correctness:0, conf-2.058881,post_correctness: 0,min:-2.722757,last center:607,best idx:269,low bound: -2.830506, largest slope: 225.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:19.90
+[-0.3051869801672455]
+[-0.04221797]
+example: 16039,correctness:1, conf-0.042132,post_correctness: 1,min:-1.479008,last center:599,best idx:111,low bound: -1.579298, largest slope: 209.7,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:20.07
+[-0.33867144507587743]
+[2.3494253]
+example: 16875,correctness:1, conf2.350741,post_correctness: 1,min:1.287628,last center:593,best idx:152,low bound: 1.168555, largest slope: 248.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.83
+[0.02870096992168447]
+[-1.6377386]
+example: 17139,correctness:1, conf-1.637435,post_correctness: 0,min:-2.069337,last center:593,best idx:404,low bound: -2.116947, largest slope: 99.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.52
+[-0.07366582279899031]
+[-2.7250896]
+example: 17946,correctness:0, conf-2.723878,post_correctness: 0,min:-3.683312,last center:591,best idx:471,low bound: -3.795392, largest slope: 234.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.05
+[-0.30231688317507704]
+[0.1586957]
+[3.1001344]
+example: 31,correctness:1, conf3.099822,post_correctness: 1,min:1.984083,last center:591,best idx:214,low bound: 1.682375, largest slope: 210.2,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:22.39
+[0.33006115409937203]
+[-3.5640984]
+example: 942,correctness:0, conf-3.567338,post_correctness: 0,min:-4.443987,last center:603,best idx:329,low bound: -4.499235, largest slope: 115.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:24.49
+[0.2171706724074129]
+[2.5294175]
+example: 963,correctness:1, conf2.529179,post_correctness: 1,min:1.470767,last center:601,best idx:208,low bound: 1.365783, largest slope: 219.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:23.49
+[0.2697891172638344]
+[-4.6686625]
+example: 1803,correctness:0, conf-4.668935,post_correctness: 0,min:-4.792557,last center:607,best idx:183,low bound: -4.842740, largest slope: 104.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:22.67
+[-0.25256853531082385]
+[0.8011298]
+example: 2052,correctness:1, conf0.800328,post_correctness: 1,min:-0.479791,last center:601,best idx:377,low bound: -0.641586, largest slope: 338.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:22.56
+[0.25735203029777126]
+[-3.2169013]
+[3.1001344]
+example: 31,correctness:1, conf3.099822,post_correctness: 1,min:1.984083,last center:591,best idx:214,low bound: 1.682375, largest slope: 210.2,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.20
+[0.33006115409937203]
+[-3.5640984]
+example: 942,correctness:0, conf-3.567338,post_correctness: 0,min:-4.443987,last center:603,best idx:329,low bound: -4.499235, largest slope: 115.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.28
+[0.2171706724074129]
+[2.5294175]
+example: 963,correctness:1, conf2.529179,post_correctness: 1,min:1.470767,last center:601,best idx:208,low bound: 1.365783, largest slope: 219.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.29
+[0.2697891172638344]
+[-4.6686625]
+example: 1803,correctness:0, conf-4.668935,post_correctness: 0,min:-4.792557,last center:607,best idx:183,low bound: -4.842740, largest slope: 104.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.02
+[-0.25256853531082385]
+[0.8011298]
+example: 2052,correctness:1, conf0.800328,post_correctness: 1,min:-0.479791,last center:601,best idx:377,low bound: -0.641586, largest slope: 338.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.07
+[0.25735203029777126]
+[-3.2169013]
+example: 2787,correctness:0, conf-3.217370,post_correctness: 0,min:-5.189575,last center:605,best idx:8,low bound: -5.551808, largest slope: 252.4,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.41
+[0.25830872929516063]
+[2.2859716]
+example: 2890,correctness:1, conf2.286561,post_correctness: 1,min:0.899960,last center:619,best idx:297,low bound: 0.766524, largest slope: 279.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.81
+[0.2831829032272874]
+[-2.1980193]
+example: 3855,correctness:0, conf-2.197391,post_correctness: 0,min:-3.444591,last center:603,best idx:82,low bound: -3.496779, largest slope: 109.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.18
+[-0.30136018417768756]
+[5.216489]
+example: 4167,correctness:1, conf5.218195,post_correctness: 1,min:3.528472,last center:607,best idx:25,low bound: 3.332137, largest slope: 410.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.18
+[-0.08036271578071669]
+[-0.14754748]
+example: 4899,correctness:1, conf-0.146632,post_correctness: 1,min:-0.845837,last center:599,best idx:337,low bound: -0.977610, largest slope: 275.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.24
+[0.010523688971284306]
+[4.0277724]
+example: 4906,correctness:1, conf4.027827,post_correctness: 1,min:2.733829,last center:605,best idx:24,low bound: 2.613038, largest slope: 252.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.36
+[0.3472817360523827]
+[1.1228135]
+example: 5139,correctness:1, conf1.120927,post_correctness: 1,min:-1.059792,last center:591,best idx:115,low bound: -1.581660, largest slope: 363.7,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:16.95
+[-0.32145086312286675]
+[-0.41534877]
+example: 6401,correctness:1, conf-0.414757,post_correctness: 1,min:-1.158278,last center:593,best idx:565,low bound: -1.237765, largest slope: 166.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.08
+[-0.11289048169195917]
+[3.9396043]
+example: 6667,correctness:1, conf3.940877,post_correctness: 1,min:2.861988,last center:605,best idx:432,low bound: 2.784982, largest slope: 161.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.44
+[0.29083649520640326]
+[1.6547682]
+example: 7439,correctness:1, conf1.655204,post_correctness: 1,min:0.047975,last center:591,best idx:151,low bound: -0.127059, largest slope: 365.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.05
+[-0.13202446163974882]
+[2.078391]
+example: 7746,correctness:1, conf2.078297,post_correctness: 1,min:1.238861,last center:591,best idx:17,low bound: 1.137383, largest slope: 212.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:16.89
+[-0.02583087292951608]
+[-0.7261143]
+example: 7977,correctness:1, conf-0.729495,post_correctness: 1,min:-1.550598,last center:607,best idx:485,low bound: -1.723485, largest slope: 361.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.62
+[-0.012437086966063271]
+[-1.7394089]
+example: 8541,correctness:0, conf-1.739090,post_correctness: 0,min:-3.367709,last center:609,best idx:240,low bound: -3.822705, largest slope: 317.1,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.64
+[0.3472817360523827]
+[-0.03947759]
+example: 9123,correctness:1, conf-0.040103,post_correctness: 1,min:-0.717006,last center:599,best idx:52,low bound: -0.936652, largest slope: 153.1,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.31
+[0.31858076613069825]
+[-2.1864402]
+example: 9695,correctness:1, conf-2.186375,post_correctness: 0,min:-3.084696,last center:603,best idx:174,low bound: -3.183004, largest slope: 205.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.59
+[0.08036271578071669]
+[0.43957043]
+example: 10020,correctness:1, conf0.439981,post_correctness: 1,min:-2.324860,last center:615,best idx:413,low bound: -2.630051, largest slope: 638.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.78
+[0.32336426111764577]
+[-0.6552651]
+example: 10417,correctness:1, conf-0.654359,post_correctness: 1,min:-0.655265,last center:605,best idx:0,low bound: -0.738786, largest slope: 174.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.29
+[0.0]
+[1.8584619]
+example: 10453,correctness:1, conf1.858451,post_correctness: 1,min:0.802375,last center:595,best idx:266,low bound: 0.646410, largest slope: 326.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.36
+[0.012437086966063216]
+[0.29079223]
+example: 10582,correctness:1, conf0.292516,post_correctness: 1,min:-0.776973,last center:611,best idx:56,low bound: -0.890479, largest slope: 237.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.87
+[-0.09375650174416944]
+[-5.260762]
+example: 11554,correctness:0, conf-5.260292,post_correctness: 0,min:-5.454800,last center:597,best idx:531,low bound: -5.542181, largest slope: 182.7,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.42
+[-0.00956698997389488]
+[1.4149914]
+example: 12247,correctness:1, conf1.413906,post_correctness: 1,min:0.513197,last center:611,best idx:92,low bound: 0.439238, largest slope: 154.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.69
+[0.2219541673943603]
+[5.303163]
+example: 12649,correctness:1, conf5.302087,post_correctness: 1,min:3.155413,last center:591,best idx:242,low bound: 2.955160, largest slope: 418.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.42
+[0.3214508631228667]
+[-0.6901243]
+example: 13704,correctness:1, conf-0.690475,post_correctness: 1,min:-2.352983,last center:609,best idx:458,low bound: -2.481200, largest slope: 268.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.86
+[-0.29179319420379274]
+[2.8610733]
+example: 13744,correctness:1, conf2.860943,post_correctness: 1,min:1.862932,last center:599,best idx:363,low bound: 1.719845, largest slope: 299.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.53
+[-0.3195374651280878]
+[-0.2215178]
+example: 14965,correctness:1, conf-0.221495,post_correctness: 1,min:-0.959187,last center:607,best idx:197,low bound: -1.012060, largest slope: 110.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.97
+[-0.3472817360523828]
+[-0.19375062]
+example: 15380,correctness:1, conf-0.192869,post_correctness: 1,min:-1.081081,last center:597,best idx:594,low bound: -1.177443, largest slope: 201.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.40
+[-0.28318290322728734]
+[-2.0600471]
+example: 15990,correctness:0, conf-2.058881,post_correctness: 0,min:-2.722757,last center:607,best idx:269,low bound: -2.830506, largest slope: 225.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.87
+[-0.3051869801672455]
+[-0.04221797]
+example: 16039,correctness:1, conf-0.042132,post_correctness: 1,min:-1.479008,last center:599,best idx:111,low bound: -1.579298, largest slope: 209.7,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.53
+[-0.33867144507587743]
+[2.3494253]
+example: 16875,correctness:1, conf2.350741,post_correctness: 1,min:1.287628,last center:593,best idx:152,low bound: 1.168555, largest slope: 248.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.25
+[0.02870096992168447]
+[-1.6377386]
+example: 17139,correctness:1, conf-1.637435,post_correctness: 0,min:-2.069337,last center:593,best idx:404,low bound: -2.116947, largest slope: 99.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.23
+[-0.07366582279899031]
+[-2.7250896]
+example: 17946,correctness:0, conf-2.723878,post_correctness: 0,min:-3.683312,last center:591,best idx:471,low bound: -3.795392, largest slope: 234.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.33
+[-0.30231688317507704]
+[0.1586957]
+example: 18475,correctness:1, conf0.157033,post_correctness: 1,min:-1.223069,last center:591,best idx:42,low bound: -1.325353, largest slope: 213.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.35
+[-0.01722058195301074]
+[1.2316637]
+example: 18623,correctness:1, conf1.232259,post_correctness: 1,min:-0.404526,last center:591,best idx:114,low bound: -0.505445, largest slope: 211.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.32
+[-0.33293125109154054]
+[0.10392499]
+example: 18764,correctness:1, conf0.104529,post_correctness: 1,min:-0.254388,last center:607,best idx:332,low bound: -0.313769, largest slope: 124.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.72
+[-0.274572612250782]
+[2.3340511]
+example: 19493,correctness:1, conf2.334893,post_correctness: 1,min:1.401503,last center:601,best idx:592,low bound: 1.252184, largest slope: 312.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.86
+[-0.15115844158753852]
+[-5.0579715]
+example: 19568,correctness:0, conf-5.058845,post_correctness: 0,min:-6.069793,last center:591,best idx:223,low bound: -6.177952, largest slope: 226.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.34
+[-0.04592155187469521]
+[-2.8653173]
+example: 20686,correctness:0, conf-2.864573,post_correctness: 0,min:-3.021753,last center:607,best idx:17,low bound: -3.109842, largest slope: 184.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.84
+[-0.002870096992168447]
+[-0.42627764]
+example: 20974,correctness:1, conf-0.425334,post_correctness: 0,min:-2.728232,last center:609,best idx:24,low bound: -2.844257, largest slope: 242.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.99
+[-0.19707999346223376]
+[0.9355242]
+example: 21926,correctness:1, conf0.933676,post_correctness: 0,min:-2.300697,last center:591,best idx:144,low bound: -2.820953, largest slope: 362.5,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.29
+[0.3472817360523827]
+[-2.671281]
+example: 21935,correctness:0, conf-2.672766,post_correctness: 0,min:-3.963937,last center:601,best idx:163,low bound: -4.089739, largest slope: 263.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.65
+[-0.16646562554577027]
+[3.9261618]
+example: 21950,correctness:1, conf3.924301,post_correctness: 1,min:2.569138,last center:591,best idx:342,low bound: 2.358549, largest slope: 440.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.49
+[0.3482384350497722]
+[-2.8311677]
+example: 22699,correctness:1, conf-2.831515,post_correctness: 0,min:-3.358252,last center:599,best idx:79,low bound: -3.739451, largest slope: 265.6,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.63
+[-0.0602720368355375]
+[-5.541027]
+example: 23864,correctness:0, conf-5.541804,post_correctness: 0,min:-6.755158,last center:591,best idx:32,low bound: -6.857261, largest slope: 213.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.45
+[-0.1463749466005911]
+[-3.6065433]
+example: 24403,correctness:0, conf-3.606145,post_correctness: 0,min:-4.209278,last center:607,best idx:238,low bound: -4.372813, largest slope: 114.0,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.93
+[0.2870096992168453]
+[-5.9794865]
+example: 24956,correctness:0, conf-5.978699,post_correctness: 0,min:-6.482500,last center:611,best idx:419,low bound: -6.684053, largest slope: 421.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.00
+[0.29753338818812974]
+[0.7043364]
+example: 25446,correctness:1, conf0.704677,post_correctness: 1,min:-1.755212,last center:599,best idx:21,low bound: -2.213015, largest slope: 319.0,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.77
+[0.2841396022246769]
+[-5.7520037]
+example: 25964,correctness:0, conf-5.749937,post_correctness: 0,min:-6.792247,last center:607,best idx:299,low bound: -6.923473, largest slope: 274.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.05
+[-0.13011106364496988]
+[0.7958884]
+example: 26102,correctness:1, conf0.794668,post_correctness: 1,min:-2.728785,last center:595,best idx:173,low bound: -3.265884, largest slope: 374.3,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.81
+[0.24682834132648696]
+[4.753834]
+example: 26673,correctness:1, conf4.753776,post_correctness: 1,min:1.220734,last center:597,best idx:101,low bound: 1.086493, largest slope: 280.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.63
+[0.32910445510198266]
+[-1.3742948]
+example: 26728,correctness:1, conf-1.375472,post_correctness: 1,min:-2.116635,last center:595,best idx:378,low bound: -2.281903, largest slope: 345.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.56
+[-0.2803128062351189]
+[1.0183666]
+example: 27870,correctness:1, conf1.018606,post_correctness: 1,min:-3.105448,last center:615,best idx:432,low bound: -3.481387, largest slope: 785.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.22
+[0.1932531974726756]
+[-2.6265182]
+example: 27996,correctness:1, conf-2.625981,post_correctness: 0,min:-3.984982,last center:603,best idx:35,low bound: -4.175729, largest slope: 398.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.83
+[-0.1645522275509913]
+[-2.2139275]
+example: 28132,correctness:1, conf-2.212338,post_correctness: 0,min:-4.688099,last center:595,best idx:397,low bound: -4.904904, largest slope: 453.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.65
+[-0.3396281440732669]
+[2.9998274]
+example: 28297,correctness:1, conf2.999279,post_correctness: 1,min:0.298712,last center:605,best idx:57,low bound: 0.115009, largest slope: 384.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.06
+[-0.08610290976505358]
+[-2.4672642]
+example: 29945,correctness:0, conf-2.466800,post_correctness: 0,min:-3.390854,last center:599,best idx:420,low bound: -3.494776, largest slope: 217.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.39
+[0.09279980274678001]
+[2.2529876]
+example: 30353,correctness:1, conf2.253281,post_correctness: 1,min:1.656748,last center:591,best idx:136,low bound: 1.537337, largest slope: 83.2,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.64
+[-0.031571066913852974]
+[-3.3572674]
+example: 30902,correctness:0, conf-3.358446,post_correctness: 0,min:-4.507450,last center:591,best idx:437,low bound: -4.601115, largest slope: 195.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.76
+[-0.12724096665280143]
+[0.8473742]
+example: 31404,correctness:1, conf0.847632,post_correctness: 1,min:-0.375871,last center:611,best idx:21,low bound: -0.514065, largest slope: 288.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.47
+[-0.1578553345692649]
+[4.835665]
+example: 31482,correctness:1, conf4.835582,post_correctness: 1,min:1.646819,last center:595,best idx:381,low bound: 1.431537, largest slope: 450.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.73
+[0.31188387314897187]
+[-2.249938]
+example: 31489,correctness:0, conf-2.247195,post_correctness: 0,min:-3.482400,last center:611,best idx:156,low bound: -3.593528, largest slope: 232.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.49
+[-0.2123871774204655]
+[-2.1042516]
+example: 31625,correctness:0, conf-2.104064,post_correctness: 0,min:-3.362365,last center:605,best idx:589,low bound: -3.467524, largest slope: 219.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.89
+[-0.3281477561045931]
+[-1.2747936]
+example: 32720,correctness:1, conf-1.274127,post_correctness: 0,min:-2.927316,last center:605,best idx:48,low bound: -3.022783, largest slope: 199.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.19
+[-0.32719105710720364]
+[-2.0692198]
+example: 33959,correctness:1, conf-2.069506,post_correctness: 1,min:-3.107852,last center:601,best idx:313,low bound: -3.200219, largest slope: 193.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.04
+[0.09375650174416955]
+[-0.747643]
+example: 34004,correctness:1, conf-0.746665,post_correctness: 1,min:-2.803560,last center:603,best idx:429,low bound: -2.968593, largest slope: 345.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.32
+[-0.3482384350497723]
+[10.062635]
+example: 34742,correctness:1, conf10.066941,post_correctness: 1,min:6.551396,last center:605,best idx:405,low bound: 6.264953, largest slope: 598.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.22
+[-0.21621397341002346]
+[1.1428423]
+example: 34787,correctness:1, conf1.142670,post_correctness: 1,min:-0.095028,last center:609,best idx:128,low bound: -0.279883, largest slope: 386.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.27
+[0.3214508631228667]
+[-6.016947]
+example: 35747,correctness:0, conf-6.018197,post_correctness: 0,min:-6.637198,last center:605,best idx:449,low bound: -6.740764, largest slope: 216.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.19
+[0.05070504686164279]
+[-3.3886557]
+example: 35918,correctness:0, conf-3.387594,post_correctness: 0,min:-4.726378,last center:595,best idx:186,low bound: -5.071491, largest slope: 240.5,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.86
+[0.3472817360523827]
+[6.921506]
+example: 36127,correctness:1, conf6.919400,post_correctness: 1,min:1.977559,last center:595,best idx:544,low bound: 1.606438, largest slope: 775.8,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.78
+[0.3482384350497722]
+[-3.3016715]
+example: 37223,correctness:1, conf-3.301865,post_correctness: 0,min:-4.080991,last center:591,best idx:130,low bound: -4.462590, largest slope: 265.9,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.78
+[0.011480387968673733]
+[-2.4044118]
+example: 37225,correctness:0, conf-2.403954,post_correctness: 0,min:-3.202888,last center:603,best idx:525,low bound: -3.270878, largest slope: 142.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.05
+[0.32336426111764577]
+[-4.0229607]
+example: 37745,correctness:0, conf-4.021878,post_correctness: 0,min:-4.554338,last center:595,best idx:8,low bound: -5.100203, largest slope: 380.4,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:17.82
+[0.025830872929516024]
+[7.198417]
+example: 38952,correctness:1, conf7.198550,post_correctness: 1,min:5.887704,last center:591,best idx:399,low bound: 5.759542, largest slope: 267.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.77
+[0.33484464908631945]
+[6.540694]
+example: 39413,correctness:1, conf6.541369,post_correctness: 1,min:3.035538,last center:591,best idx:581,low bound: 2.780817, largest slope: 532.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.65
+[0.2946632911959612]
+[-3.9811249]
+example: 39911,correctness:0, conf-3.982872,post_correctness: 0,min:-4.749030,last center:605,best idx:316,low bound: -4.915008, largest slope: 347.0,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.04
+[0.05835863884075859]
+[3.6574657]
+example: 40263,correctness:1, conf3.657855,post_correctness: 1,min:2.949587,last center:593,best idx:130,low bound: 2.890923, largest slope: 122.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.93
+[-0.10906368570240121]
+[-1.1252406]
+example: 40846,correctness:1, conf-1.124385,post_correctness: 1,min:-2.334429,last center:591,best idx:466,low bound: -2.418421, largest slope: 175.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.82
+[-0.03348446490863194]
+[-2.9830248]
+example: 40950,correctness:0, conf-2.985488,post_correctness: 0,min:-4.728661,last center:591,best idx:210,low bound: -4.936961, largest slope: 435.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.72
+[0.304230281169856]
+[0.07225776]
+example: 41050,correctness:1, conf0.072027,post_correctness: 1,min:-0.712979,last center:591,best idx:118,low bound: -1.203701, largest slope: 342.0,opt size: 0.0014350484960842264, largest po size:0.0014350484960842264,time:18.03
+[-0.022960775937347633]
+[1.93994]
+example: 42388,correctness:1, conf1.941281,post_correctness: 1,min:0.889244,last center:615,best idx:38,low bound: 0.754214, largest slope: 282.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.61
+[0.08897300675722203]
+[-4.110336]
+example: 42864,correctness:0, conf-4.109625,post_correctness: 0,min:-6.698385,last center:607,best idx:403,low bound: -6.818587, largest slope: 251.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.38
+[-0.2937065921985717]
+[0.88524604]
+example: 43391,correctness:1, conf0.885348,post_correctness: 1,min:-1.470338,last center:607,best idx:317,low bound: -1.746429, largest slope: 577.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.49
+[0.31188387314897187]
+[2.8323271]
+example: 43404,correctness:1, conf2.830703,post_correctness: 1,min:1.085496,last center:599,best idx:86,low bound: 0.849118, largest slope: 494.2,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.28
+[0.08418951177027462]
+[-4.361447]
+example: 44254,correctness:0, conf-4.360246,post_correctness: 0,min:-4.779659,last center:597,best idx:401,low bound: -4.950398, largest slope: 356.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.36
+[-0.2248242643865288]
+[3.3045382]
+example: 44414,correctness:1, conf3.303996,post_correctness: 1,min:-2.673033,last center:605,best idx:329,low bound: -3.153345, largest slope: 1004.1,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.73
+[-0.3281477561045931]
+[6.5696535]
+example: 44854,correctness:1, conf6.568340,post_correctness: 1,min:4.881431,last center:609,best idx:425,low bound: 4.743512, largest slope: 288.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.81
+[0.27457261225078206]
+[-0.9841323]
+example: 44898,correctness:1, conf-0.981274,post_correctness: 1,min:-2.510791,last center:591,best idx:502,low bound: -2.700475, largest slope: 396.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.18
+[-0.2946632911959612]
+[-1.2039993]
+example: 44949,correctness:1, conf-1.204526,post_correctness: 0,min:-3.147626,last center:591,best idx:331,low bound: -3.257037, largest slope: 228.7,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.42
+[-0.34249824106543536]
+[0.1765356]
+example: 45748,correctness:1, conf0.176238,post_correctness: 1,min:-1.125532,last center:605,best idx:74,low bound: -1.246349, largest slope: 252.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.65
+[-0.06888232781204284]
+[1.6516988]
+example: 46914,correctness:1, conf1.649183,post_correctness: 1,min:1.392755,last center:595,best idx:288,low bound: 1.141398, largest slope: 525.5,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.06
+[-0.007653591979115859]
+[5.8544273]
+example: 47764,correctness:1, conf5.852786,post_correctness: 1,min:3.869434,last center:601,best idx:522,low bound: 3.710453, largest slope: 332.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.57
+[0.018177280950400165]
+[1.7953191]
+example: 48149,correctness:1, conf1.796323,post_correctness: 1,min:0.341171,last center:591,best idx:521,low bound: 0.158475, largest slope: 381.9,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:17.97
+[0.23439125436042368]
+[-1.5707148]
+example: 48377,correctness:1, conf-1.572008,post_correctness: 0,min:-3.206623,last center:597,best idx:165,low bound: -3.312146, largest slope: 220.6,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.17
+[-0.07175242480421129]
+[-3.3862252]
+example: 48699,correctness:0, conf-3.387321,post_correctness: 0,min:-4.264362,last center:605,best idx:385,low bound: -4.347295, largest slope: 173.4,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.63
+[-0.12724096665280143]
+[1.7087917]
+example: 49583,correctness:1, conf1.708640,post_correctness: 1,min:0.318383,last center:595,best idx:446,low bound: 0.168046, largest slope: 314.3,opt size: 0.00047834949869474217, largest po size:0.0014350484960842264,time:18.25
+[0.2736159132533926]
