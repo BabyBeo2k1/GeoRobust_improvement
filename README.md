@@ -67,10 +67,18 @@ neighbor datapoints.
     <img src="figs/improvement_po.png" width="780"\>
 </p>
 
-The result shows that the modification find a lower minimum for robustness problem at 57% cases but find higher minimum for 37% cases. 
+The result comes from implementation of imagenet through resnet50 over 100 samples, it shows that the modification find a lower minimum for 
+robustness problem at 57% cases but find higher minimum for 37% cases. 
 
 <p align="center">
     <img src="figs/result_improvement.png" width="780"\>
 </p>
 
-Overall this is a worth-to-try improvement, although it require double computing cost but only improve 57% cases
+Overall this is a worth-to-try improvement, although it require double computing cost but only improve 57% cases. To run this improvement,
+simply running 
+
+```bash
+sh shell\ours_improvement_of_georobust_imagenet.sh 
+```
+
+If you wish to see the result feel free to modify `eval.ipynb` at first cell
